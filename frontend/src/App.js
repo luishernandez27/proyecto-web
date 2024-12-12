@@ -5,7 +5,7 @@ function App() {
 
     useEffect(() => {
         // Conecta con el back-end
-        fetch('http://localhost:3001/api/messages')
+        fetch('https://proyecto-web-w6i7.vercel.app/api/messages')
             .then(response => response.json())
             .then(data => setMessage(data.message))
             .catch(error => console.error('Error:', error));
