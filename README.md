@@ -33,6 +33,7 @@ npm start
 
 ![Captura de pantalla 2024-12-11 163148](https://github.com/user-attachments/assets/5564c563-781a-4b7e-ac78-b6050dd370a4)
 ![Captura de pantalla 2024-12-12 001011](https://github.com/user-attachments/assets/b732995b-aee4-4b4d-8230-5cf27cc581b9)
+![image](https://github.com/user-attachments/assets/2eb7de20-12c5-4597-a171-b7a0534050d8)
 ![Captura de pantalla 2024-12-12 001650](https://github.com/user-attachments/assets/eea65560-e353-4806-af20-66f017d415be)
 ![Captura de pantalla 2024-12-12 091859](https://github.com/user-attachments/assets/280df815-a393-4756-9ff7-4e4d035ff850)
 ![Captura de pantalla 2024-12-12 115642](https://github.com/user-attachments/assets/09c3ddcd-6a70-4316-b769-4404570b5cea)
