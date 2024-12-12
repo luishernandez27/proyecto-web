@@ -15,7 +15,7 @@ app.get('/api/messages', (req, res) => {
 });
 
 // Iniciar el servidor
-const PORT = 3001; // Puerto donde se ejecutará el servidor
+const PORT = process.env.PORT || 3001; // Utiliza el puerto proporcionado por Vercel o el puerto 3001
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en http://localhost:${PORT}`);
 });
